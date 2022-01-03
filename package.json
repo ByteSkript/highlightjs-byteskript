@@ -1,0 +1,26 @@
+{
+  "name": "highlightjs-byteskript",
+  "version": "2.0.0",
+  "description": "highlight.js syntax definition for ByteSkript",
+  "main": "src/byteskript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ByteSkript/highlightjs-byteskript.git"
+  },
+  "keywords": [
+    "byteskript",
+    "skript",
+    "highlight.js",
+    "highlightjs",
+    "syntax"
+  ],
+  "author": "ByteSkript org (Moderocky)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ByteSkript/highlightjs-byteskript/issues"
+  },
+  "homepage": "https://docs.byteskript.org"
+}
