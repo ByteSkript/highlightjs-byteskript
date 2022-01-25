@@ -1,6 +1,6 @@
 {
   "name": "highlightjs-byteskript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "highlight.js syntax definition for ByteSkript",
   "main": "src/byteskript.js",
   "scripts": {
