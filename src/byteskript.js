@@ -38,7 +38,7 @@ module.exports = function(hljs) {
   const ENTRIES = {
     className: 'built_in',
     relevance: 2,
-    begin: '\\b(verify|trigger|syntax)(?=:)'
+    begin: '\\b(verify|trigger|syntax|return|parameters)(?=:)'
   };
 
   const EVENTS = {
